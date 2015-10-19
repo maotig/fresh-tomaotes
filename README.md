@@ -1,6 +1,6 @@
 # [fresh-tomatoes](https://github.com/maotig/fresh-tomaotes)
 
-**Movie Trailer website**
+##**Movie Trailer website**
 
 This is project 1 of Udacity's full stack developer nano-degree program
 

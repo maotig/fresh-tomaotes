@@ -46,7 +46,7 @@ class Movie(object):
            self.poster = self.imdb_movie['full-size cover url']
            self.year = self.imdb_movie['year']
            self.cast = self.parse_person_list(self.imdb_movie['cast'])
-           self.cast = self.imdb_sync = True
+           self.imdb_sync = True
 
     def parse_person_list (self, person_list):
         """ Create a list of the top 10 attributed actors

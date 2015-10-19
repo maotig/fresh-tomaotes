@@ -2,7 +2,7 @@
 
 **Movie Trailer website**
 
-This is project 1 of udacity's full stack developer nanodegree program
+This is project 1 of Udacity's full stack developer nano-degree program
 
 The starting point for the generation code is here:
 [fresh-tomatoes](https://github.com/adarsh0806/ud036_StarterCode)
@@ -10,7 +10,7 @@ The starting point for the generation code is here:
 The top level program is entertainment_center.py.
 
 Run python entertainment_center.py, the application will generate
-fresh_tomatoes.html with a list of my favorite movies and run a webbrowser
+fresh_tomatoes.html with a list of my favorite movies and will run a web browser
 pointing to that page. 
 
 ## Execution
@@ -19,7 +19,7 @@ pointing to that page.
 
 ## Extended content
 
-The application can use the [IMDbPY](http://imdbpy.sourceforge.net/) python module to add additional infomation
+The application can use the [IMDbPY](http://imdbpy.sourceforge.net/) python module to add additional information 
 to each of the movie trailers from [IMDb](http://www.imdb.com/).
 
 To install the module run the following:

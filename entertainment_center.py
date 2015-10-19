@@ -6,6 +6,9 @@
 # module installed. With the module installed additional
 # information is added to the webpage.
 #
+# Usages of imdbpy, are developed from the examples and api documentation
+# provided at http://imdbpy.sourceforge.net/
+#
 # Copyright (c) 2015 Jeremy Puhlman.  All rights reserved.
 #
 # Released under the MIT license (see LICENSE.MIT for the terms)

@@ -79,7 +79,6 @@ def get_imdb_catalog():
 
 def main():
     """ Main function """
-    print imdbSupported
     if imdbSupported:
        fresh_tomatoes.open_movies_page(get_imdb_catalog())
     else:

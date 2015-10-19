@@ -13,6 +13,12 @@ Run python entertainment_center.py, the application will generate
 fresh_tomatoes.html with a list of my favorite movies and run a webbrowser
 pointing to that page. 
 
+## Execution
+
+* python entertainment_center.py
+
+## Extended content
+
 The application can use the [IMDbPY](http://imdbpy.sourceforge.net/) python module to add additional infomation
 to each of the movie trailers from [IMDb](http://www.imdb.com/).
 
